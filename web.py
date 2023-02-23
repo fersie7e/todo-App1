@@ -9,9 +9,9 @@ def add_todo():
     st.session_state["new_todo"] = ""
 
 
-st.title("My To-do app")
-st.subheader("This app will increase your productivity")
-st.write("Fernando Hernandez")
+st.title("Lista de Compra")
+st.subheader("Miriam y Fernando")
+st.write("07/07/07")
 
 
 
