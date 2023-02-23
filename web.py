@@ -11,7 +11,7 @@ def add_todo():
 
 st.title("Lista de Compra")
 st.subheader("Miriam y Fernando")
-st.write("07/07/07")
+st.write("Que necesitamos?...")
 
 
 
